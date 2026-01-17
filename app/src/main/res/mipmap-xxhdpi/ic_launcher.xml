@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0"/>
+    <!-- "A" letter representing Assembly -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30L38,75L42,75L46,62L62,62L66,75L70,75L54,30ZM48,58L54,42L60,58L48,58Z"/>
+</vector>
